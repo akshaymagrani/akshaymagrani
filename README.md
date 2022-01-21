@@ -16,9 +16,7 @@ Connect with Me: :handshake:
 My Skills: 🤹
 <br>
 <br>
-<img src="https://github.com/akshaymagrani/akshaymagrani/blob/main/html_logo.png" alt="HTML" width=50 height=50/>
-<img src="https://github.com/akshaymagrani/akshaymagrani/blob/main/css_logo.png" alt="CSS" width=50 height=50/>
-<img src="https://github.com/akshaymagrani/akshaymagrani/blob/main/js_logo.png" alt="JavaScript" width=50 height=50/>
+<img src="https://github.com/akshaymagrani/akshaymagrani/blob/main/skills-logo.jpg" alt="JavaScript" height=50/>
 <img src="https://github.com/akshaymagrani/akshaymagrani/blob/main/bootstrap_logo.png" alt="Bootstrap" width=50 height=50/>
 
 <!---
