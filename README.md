@@ -1,13 +1,16 @@
-![Creative Image](https://drive.google.com/file/d/1MJCfSYsp7pP-rs4yw2B9XfBeh602Bvym/view?usp=sharing)
+![Creative Image](https://github.com/akshaymagrani/akshaymagrani/blob/main/12456.jpg)
+<br>
 - 👋 Hi, I’m @akshaymagrani
 - 👀 I’m interested in automation and visualization.
 - 🌱 I’m currently learning JavaScript.
 - :zap: Fun Fact - I have cold feets.
 
-Connect with Me: :handshake:
-
+Connect with Me: :handshake: 
+<br>
+<br>
+<a href="https://www.instagram.com/dev.akshaym/"><img src="https://github.com/akshaymagrani/akshaymagrani/blob/main/instagram_logo.png" width=35 height=35 /></a>
+<a href="https://www.linkedin.com/in/akshay-magrani/"><img src="https://github.com/akshaymagrani/akshaymagrani/blob/main/linkedin_logo.png" width=35 height=35 /></a>
 [1]: https://twitter.com/akshay_magrani
-[2]: https://www.instagram.com/dev.akshaym/
 
 <!---
 akshaymagrani/akshaymagrani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
