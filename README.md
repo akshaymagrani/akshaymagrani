@@ -12,6 +12,7 @@ Connect with Me: :handshake:
 <a href="https://www.instagram.com/dev.akshaym/"><img src="https://github.com/akshaymagrani/akshaymagrani/blob/main/instagram_logo.png" width=35 height=35 /></a>
 <a href="https://www.linkedin.com/in/akshay-magrani/"><img src="https://github.com/akshaymagrani/akshaymagrani/blob/main/linkedin_logo.png" width=35 height=35 /></a>
 <a href="https://twitter.com/akshay_magrani"><img src="https://github.com/akshaymagrani/akshaymagrani/blob/main/twitter_logo.png" width=35 height=35 /></a>
+<a href="mailto: akshaymagrani1@gmail.com"><img src="https://github.com/akshaymagrani/akshaymagrani/blob/main/gmail.png" width=40 height=35 /></a>
 
 My Skills: 🤹
 <br>
