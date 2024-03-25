@@ -1,4 +1,6 @@
-![Creative Image](https://github.com/akshaymagrani/akshaymagrani/blob/main/12456.jpg)
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 <br>
 # Akshaykumar I. Magrani
 
