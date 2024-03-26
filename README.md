@@ -6,7 +6,7 @@ JavaScript   46 mins         █████████████████
 
 <!--END_SECTION:waka-->
 <br>
-# Akshaykumar I. Magrani
+<h1>Akshaykumar I. Magrani</h1>
 
 - 👀 I’m interested in automation and visualization.
 - 🌱 I’m currently learning JavaScript.
